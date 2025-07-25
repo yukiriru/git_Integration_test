@@ -1,0 +1,14 @@
+#여기서 형상관리 제외 항목을 정리
+.idea/
+*.iml
+out/
+
+# OS 관련
+.DS_Store
+Thumbs.db
+
+# 로그
+*.log
+
+# 기타
+*.class
